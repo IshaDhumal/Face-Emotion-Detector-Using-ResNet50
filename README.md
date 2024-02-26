@@ -27,7 +27,7 @@ The Face Emotion Detector uses deep learning techniques to recognize facial expr
 
 1. Once the installation is complete, run the following command to start the application:
     ```bash
-    python main.py
+    python train.py
     ```
 
 2. The application will launch, allowing you to upload an image containing a face.
